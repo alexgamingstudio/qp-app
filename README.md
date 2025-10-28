@@ -9,7 +9,7 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
   
-  [🚀 Live Demo](https://deine-app-url.com) • [📖 Dokumentation](#features) • [🐛 Bug Report](https://github.com/dein-username/qp-app/issues)
+  [🚀 Live Demo](https://alexgamingstudio.github.io/qp-app) • [📖 Dokumentation](#features) • [🐛 Bug Report](https://github.com/alexgamingstudio/qp-app/issues)
 </div>
 
 ---
